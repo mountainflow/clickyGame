@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Aurelius",
+        "image": "../public/images/aurelius.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "name": "Bach",
+        "image": "../public/images/bach.jpg",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "name": "Branson",
+        "image": "../public/images/branson.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "name": "Davinci",
+        "image": "../public/images/davinci.jpg",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "name": "Einstein",
+        "image": "../public/images/einstein.jpg",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "name": "Ford",
+        "image": "../public/images/ford.jpg",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "name": "Hawking",
+        "image": "../public/images/hawking.jpg",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "name": "London",
+        "image": "../public/images/london.jpg",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "name": "Musk",
+        "image": "../public/images/musk.jpg",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "name": "Shackleton",
+        "image": "../public/images/shackleton.jpg",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "name": "Tesla",
+        "image": "../public/images/tesla.jpg",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "name": "Twain",
+        "image": "../public/images/twain.jpg",
+        "clicked": false
+    }
+]
